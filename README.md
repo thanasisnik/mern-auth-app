@@ -51,7 +51,7 @@ npm install
 ## Configuration
 1. Create a .env file in the backend directory:
 ```
-MONGODB_URI=mongodb://localhost:27017/mern-auth
+MONGODB_URI=your_mongo_uri
 TOKEN_SECRET=your_jwt_secret_key
 ```
 
